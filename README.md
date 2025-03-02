@@ -1,3 +1,5 @@
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=samyaksgupta&label=Profile%20views&color=0e75b6&style=flat" alt="Samyak" /> </p>
+
 - 👋 Hi, I’m @samyaksgupta
 - 👀 I’m interested in Robotics,AI and IOT
 - 🌱 I’m currently learning DSA, Flutter , JavaScript , Raspberry PI
