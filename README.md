@@ -93,7 +93,7 @@ samyaksgupta - Digital Warrior of the Information Superhighway
 
 ### <font color="#ffff00" face="Arial Black">⚡ STATS ⚡</font>
 
-<img src="https://github-readme-stats.vercel.app/api?username=samyaksgupta&show_icons=true&theme=synthwave&bg_color=0d1117&title_color=ff00ff&icon_color=00ffff&text_color=ffffff&border_color=ff00ff" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=samyaksgupta&show_icons=true&theme=synthwave&bg_color=0d1117&title_color=ff00ff&icon_color=00ffff&text_color=ffffff&border_color=3d444d" alt="GitHub Stats">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=samyaksgupta&theme=synthwave&background=0d1117&stroke=ff00ff&ring=00ffff&fire=ffff00&currStreakLabel=ff00ff" alt="GitHub Streak">
 
