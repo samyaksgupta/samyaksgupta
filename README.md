@@ -21,7 +21,7 @@
 
 </div>
 
-## <img src="https://web.archive.org/web/20091027004716/http://geocities.com/enchantedforest/dell/5046/skull.gif" width="30"> ENTER AT YOUR OWN RISK <img src="https://web.archive.org/web/20091027004716/http://geocities.com/enchantedforest/dell/5046/skull.gif" width="30">
+
 
 <table width="100%" cellpadding="10" cellspacing="0" border="2" bordercolor="#00ffff" bgcolor="#000080">
 <tr>
