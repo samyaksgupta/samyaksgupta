@@ -29,7 +29,7 @@
 
 <img src="https://web.archive.org/web/20091027002235/http://geocities.com/enchantedforest/dell/5046/earth.gif" width="60" align="left">
 
-### <font color="#00ffff" face="Courier New">👾 about me.sh</font>
+### <font color="#00ffff" face="Courier New">👾 about_me.sh</font>
 
 ```
 > whoami
