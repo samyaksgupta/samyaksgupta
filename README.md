@@ -59,7 +59,7 @@ samyaksgupta - Digital Warrior of the Information Superhighway
 
 </div>
 
-## <img src="https://web.archive.org/web/20091027080338/http://geocities.com/enchantedforest/dell/5046/fire.gif" width="40"> ARSENAL OF CYBER WEAPONS <img src="https://web.archive.org/web/20091027080338/http://geocities.com/enchantedforest/dell/5046/fire.gif" width="40">
+## <img src="https://web.archive.org/web/20091027080338/http://geocities.com/enchantedforest/dell/5046/fire.gif" width="40"> Tech/Stack i use <img src="https://web.archive.org/web/20091027080338/http://geocities.com/enchantedforest/dell/5046/fire.gif" width="40">
 
 <div align="center">
 
