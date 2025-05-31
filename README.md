@@ -55,8 +55,6 @@ samyaksgupta - Digital Warrior of the Information Superhighway
 
 <img width="402" alt="Business page 1" src="https://github.com/samyaksgupta/samyaksgupta/assets/127541694/4c8124aa-b800-443f-b27f-64be3678dd94">
 
-<img src="https://web.archive.org/web/20091027161503/http://geocities.com/enchantedforest/dell/5046/rainline.gif" width="500" alt="Rainbow Line">
-
 </div>
 
 ## <img src="https://web.archive.org/web/20091027080338/http://geocities.com/enchantedforest/dell/5046/fire.gif" width="40"> Tech/Stack i use <img src="https://web.archive.org/web/20091027080338/http://geocities.com/enchantedforest/dell/5046/fire.gif" width="40">
