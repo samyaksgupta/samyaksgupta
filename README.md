@@ -113,7 +113,7 @@ samyaksgupta - Digital Warrior of the Information Superhighway
 
 <img src="https://web.archive.org/web/20091027090047/http://geocities.com/spunk1111/new-29.gif" width="80"> **JavaScript in progress...**
 
-<img src="https://web.archive.org/web/20091027090047/http://geocities.com/spunk1111/new-29.gif" width="80"> **Raspberry Pi **
+<img src="https://web.archive.org/web/20091027090047/http://geocities.com/spunk1111/new-29.gif" width="80"> **Raspberry Pi**
 
 </div>
 
