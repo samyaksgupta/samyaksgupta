@@ -128,7 +128,7 @@ samyaksgupta - Digital Warrior of the Information Superhighway
 ### <font color="#ff6600" face="Comic Sans MS">📡 ESTABLISH COMMUNICATION 📡</font>
 
 <a href="https://instagram.com/samyaksgupta">
-  <img src="https://web.archive.org/web/20091026235601/http://geocities.com/enchantedforest/dell/5046/clickhere.gif" width="120" alt="Click Here">
+  <img src="[https://web.archive.org/web/20091026235601/http://geocities.com/enchantedforest/dell/5046/clickhere.gif](https://web.archive.org/web/20091029004232/http://geocities.com/SoHo/Lofts/7062/nicspic.html)" width="120" alt="Click Here">
 </a>
 
 **Follow me into the digital realm!**
