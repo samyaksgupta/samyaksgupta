@@ -33,12 +33,12 @@
 
 ```
 > whoami
-samyaksgupta - Digital Warrior of the Information Superhighway
+samyaksgupta - A developer/gamedev/aiml
 
 > cat about.txt
 👋 Greetings, fellow netizen! I'm @samyaksgupta
 👀 Obsessed with: ROBOTICS • AI • IOT 
-🌱 Currently downloading: DSA, Flutter, JavaScript, Raspberry Pi
+🌱 Currently downloading: DSA, Flutter, JavaScript, Game development
 💻 Seeking alliance for: Machine Learning Domination
 📫 Send electronic mail: https://instagram.com/samyaksgupta
 🎮 Status: ONLINE and ready to hack the planet!
