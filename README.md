@@ -61,7 +61,7 @@ samyaksgupta - Digital Warrior of the Information Superhighway
 
 <div align="center">
 
-<table bgcolor="#000000" border="3" bordercolor="#ff00ff" cellpadding="15">
+<table bgcolor="#000000" border="3" bordercolor="#3d444d" cellpadding="15">
 <tr>
 <td align="center">
 
