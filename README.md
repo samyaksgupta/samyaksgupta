@@ -147,7 +147,7 @@ samyaksgupta - Digital Warrior of the Information Superhighway
 
 <font face="Courier New" color="#888888" size="2">
 Last updated: When Y2K was still a thing<br>
-© 2024 Samyak's Cyber Empire - All Rights Reserved<br>
+© 2025 - All Rights Reserved<br>
 This page is best viewed with your eyes open
 </font>
 
