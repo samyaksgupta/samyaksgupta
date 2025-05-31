@@ -107,13 +107,13 @@ samyaksgupta - Digital Warrior of the Information Superhighway
 
 ### <font color="#00ff00" face="Courier New">🚧 CURRENTLY Learning 🚧</font>
 
-<img src="https://web.archive.org/web/20091027090047/http://geocities.com/spunk1111/new-29.gif" width="80"> **Learning DSA like a 1337 h4x0r**
+ **Learning DSA like a 1337 h4x0r**
 
-<img src="https://web.archive.org/web/20091027090047/http://geocities.com/spunk1111/new-29.gif" width="80"> **Building Flutter apps that are cost effective & optimised**
+ **Building Flutter apps that are cost effective & optimised**
 
-<img src="https://web.archive.org/web/20091027090047/http://geocities.com/spunk1111/new-29.gif" width="80"> **JavaScript in progress...**
+**JavaScript in progress...**
 
-<img src="https://web.archive.org/web/20091027090047/http://geocities.com/spunk1111/new-29.gif" width="80"> **Raspberry Pi**
+**Raspberry Pi**
 
 </div>
 
