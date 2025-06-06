@@ -37,7 +37,7 @@ samyaksgupta - A developer/gamedev/aiml
 
 > cat about.txt
 👋 Greetings, I'm @samyaksgupta
-👀 Focused on: software optimisation
+👀 Focused on: Low Level Coding mostly in c++
 🌱 Currently Learning: DSA, Flutter, JavaScript, Game development
 📫 Send message: https://instagram.com/samyaksgupta
 
