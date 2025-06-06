@@ -75,7 +75,7 @@ samyaksgupta - A developer/gamedev/aiml
 **PROGRAMMING LANGUAGES**
 <br><br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/250px-ISO_C%2B%2B_Logo.svg.png" width="50" title="C++">
-<img src="https://github.com/user-attachments/assets/6c47fdaa-2028-4833-a296-eb602a6e3a5e" width="50" title="Your Tech">
+
 
 </td>
 </tr>
@@ -153,11 +153,11 @@ This page is best viewed with your eyes open
 <img src="https://web.archive.org/web/20091027232508/http://geocities.com/enchantedforest/dell/5046/thankyou.gif" width="200" alt="Thanks for Visiting">
 
 <br>
-
+<img src="https://github.com/user-attachments/assets/6c47fdaa-2028-4833-a296-eb602a6e3a5e" width="50" title="Your Tech">
 <marquee behavior="scroll" direction="left" bgcolor="#000080">
 <font color="#ffff00" face="Comic Sans MS">
-🌟 Welcome to the Information Superhighway! 🌟 Don't forget to bookmark this page! 🌟 Surf's up, dude! 🌟
+🌟GoodBye do come back !!🌟
 </font>
 </marquee>
-
+<img src="https://github.com/user-attachments/assets/6c47fdaa-2028-4833-a296-eb602a6e3a5e" width="70" title="Your Tech">
 </div>
