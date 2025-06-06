@@ -153,11 +153,11 @@ This page is best viewed with your eyes open
 <img src="https://web.archive.org/web/20091027232508/http://geocities.com/enchantedforest/dell/5046/thankyou.gif" width="200" alt="Thanks for Visiting">
 
 <br>
-<img src="https://github.com/user-attachments/assets/6c47fdaa-2028-4833-a296-eb602a6e3a5e" width="50" title="Your Tech">
+<img src="https://github.com/user-attachments/assets/6c47fdaa-2028-4833-a296-eb602a6e3a5e" width="80" title="Your Tech">
 <marquee behavior="scroll" direction="left" bgcolor="#000080">
 <font color="#ffff00" face="Comic Sans MS">
 🌟GoodBye do come back !!🌟
 </font>
 </marquee>
-<img src="https://github.com/user-attachments/assets/6c47fdaa-2028-4833-a296-eb602a6e3a5e" width="70" title="Your Tech">
+<img src="https://github.com/user-attachments/assets/6c47fdaa-2028-4833-a296-eb602a6e3a5e" width="80" title="Your Tech">
 </div>
