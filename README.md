@@ -33,7 +33,7 @@
 
 ```
 > whoami
-samyaksgupta - A developer/gamedev/aiml
+samyaksgupta - A developer/aiml/c++/gamedev
 
 > cat about.txt
 👋 Greetings, I'm @samyaksgupta
