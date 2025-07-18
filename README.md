@@ -38,7 +38,7 @@
 
 - 🧠 **July 18, 2025** – Pushed Perplexity AI clone baeed in Flutter made it in a week Feb/2025.
 - 🛠️ **July 10, 2025** – Dockerized a bunch of stuff bro its amazing thanks Solomon Hykes.
-- 🔗 **July 1, 2025** – Integrated Helius API for Solana token tracking first project of web3.
+- 🔗 **July 8, 2025** – Integrated Helius API for Solana token tracking first project of web3.
 - 💭 **June 25, 2025** – Learning and planning more about Automation And Stuff.
 - ⚡ **June 20, 2025** – Connected frontend with prompt-based image generation models.
 
