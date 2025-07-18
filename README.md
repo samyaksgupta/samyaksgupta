@@ -37,9 +37,9 @@
 <div style="max-height: 200px; overflow-y: auto;">
 
 - 🧠 **July 18, 2025** – Built a Perplexity AI clone in Flutter! Shows live sources like the original.
-- 🛠️ **July 10, 2025** – Dockerized our Discord video bot pipeline.
-- 🔗 **July 1, 2025** – Integrated Helius API for Solana token tracking.
-- 💭 **June 25, 2025** – Planning GTM strategy using automated SEO + email flows.
+- 🛠️ **July 10, 2025** – Dockerized a bunch of stuff bro its amazing thanks Solomon Hykes.
+- 🔗 **July 1, 2025** – Integrated Helius API for Solana token tracking first project of web3.
+- 💭 **June 25, 2025** – Learning and planning more about Automation And Stuff.
 - ⚡ **June 20, 2025** – Connected frontend with prompt-based image generation models.
 
 </div>
