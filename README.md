@@ -29,6 +29,24 @@
 
 <img src="https://web.archive.org/web/20091027002235/http://geocities.com/enchantedforest/dell/5046/earth.gif" width="60" align="left">
 
+## 📓 Recent Thoughts
+
+<details>
+<summary>Click to expand</summary>
+
+<div style="max-height: 200px; overflow-y: auto;">
+
+- 🧠 **July 18, 2025** – Built a Perplexity AI clone in Flutter! Shows live sources like the original.
+- 🛠️ **July 10, 2025** – Dockerized our Discord video bot pipeline.
+- 🔗 **July 1, 2025** – Integrated Helius API for Solana token tracking.
+- 💭 **June 25, 2025** – Planning GTM strategy using automated SEO + email flows.
+- ⚡ **June 20, 2025** – Connected frontend with prompt-based image generation models.
+
+</div>
+</details>
+
+
+
 ### <font color="#00ffff" face="Courier New">👾 about_me.sh</font>
 
 ```
