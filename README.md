@@ -36,7 +36,7 @@
 
 <div style="max-height: 200px; overflow-y: auto;">
 
-- 🧠 **July 18, 2025** – Pushed Perplexity AI clone baeed in Flutter made it in a week Feb/2025.
+- 🧠 **July 18, 2025** – Pushed Perplexity AI clone based in Flutter made it in a week Feb/2025.
 - 🛠️ **July 10, 2025** – Dockerized a bunch of stuff bro its amazing thanks Solomon Hykes.
 - 🔗 **July 8, 2025** – Integrated Helius API for Solana token tracking first project of web3.
 - 💭 **June 25, 2025** – Learning and planning more about Automation And Stuff.
