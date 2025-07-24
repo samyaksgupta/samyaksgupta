@@ -140,11 +140,11 @@ samyaksgupta - A developer/aiml/c++/gamedev
 
 <img src="https://web.archive.org/web/20091027071928/http://geocities.com/enchantedforest/dell/5046/email.gif" width="100">
 
-### <font color="#ff6600" face="Comic Sans MS">📡 ESTABLISH COMMUNICATION 📡</font>
-
-<a href="https://instagram.com/samyaksgupta">
-  <img src="[https://web.archive.org/web/20091026235601/http://geocities.com/enchantedforest/dell/5046/clickhere.gif]" width="120" alt="Click Here">
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samyaksgupta/samyaksgupta/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samyaksgupta/samyaksgupta/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/samyaksgupta/samyaksgupta/output/pacman-contribution-graph.svg">
+</picture>
 
 **Follow me into the digital realm!**
 
