@@ -17,7 +17,7 @@
   <img src="https://komarev.com/ghpvc/?username=samyaksgupta&label=VISITOR%20COUNTER&color=ff00ff&style=for-the-badge" alt="Visitor Counter" />
 </p>
 
-<img src="https://web.archive.org/web/20091027161503/http://geocities.com/enchantedforest/dell/5046/rainline.gif" width="500" alt="Rainbow Line">
+
 
 </div>
 
