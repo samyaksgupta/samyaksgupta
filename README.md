@@ -181,9 +181,9 @@ samyaksgupta - A developer/aiml/c++/gamedev
 
 <div align="center">
 
-<img src="https://web.archive.org/web/20091027231345/http://geocities.com/enchantedforest/dell/5046/netscape.gif" width="88" alt="Best Viewed with on Desktop">
-<img src="https://web.archive.org/web/20091027231753/http://geocities.com/enchantedforest/dell/5046/notepad.gif" width="88" alt="if you are seeing in this? you are using yr mobile to see it">
-<img src="https://web.archive.org/web/20091027232028/http://geocities.com/enchantedforest/dell/5046/coffee.gif" width="88" alt="use web next time and you wont see it">
+<img src="https://web.archive.org/web/20091027231345/http://geocities.com/enchantedforest/dell/5046/netscape.gif" width="88" alt="Best Viewed on web/Desktop">
+<img src="https://web.archive.org/web/20091027231753/http://geocities.com/enchantedforest/dell/5046/notepad.gif" width="88" alt="if you are seeing in this? you are prolly using yr mobile to see it">
+<img src="https://web.archive.org/web/20091027232028/http://geocities.com/enchantedforest/dell/5046/coffee.gif" width="88" alt="use web next time and you wont see these lines...">
 
 <br><br>
 
