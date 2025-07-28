@@ -150,25 +150,6 @@ samyaksgupta - A developer/aiml/c++/gamedev
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samyaksgupta&layout=compact&theme=dark&hide_border=true&bg_color=0d1117"/>
 </div>
 
-
----
-
-<div align="center">
-
-<img src="https://web.archive.org/web/20091027144616/http://geocities.com/enchantedforest/dell/5046/construction2.gif" width="80">
-
-### <font color="#00ff00" face="Courier New">🚧 CURRENTLY Learning 🚧</font>
-
- **Learning DSA like a 1337 h4x0r**
-
- **Building Flutter apps that are cost effective & optimised**
-
-**JavaScript in progress...**
-
-**Raspberry Pi**
-
-</div>
-
 ---
 
 <picture>
